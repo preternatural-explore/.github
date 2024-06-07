@@ -7,6 +7,7 @@ Welcome to @PreternaturalAI's collection of real-world examples of what you can 
 1. [MLX Swift Chat: Run LLM models locally with MLX!](https://github.com/preternatural-explore/mlx-swift-chat)
 2. [AIMovieSearch: AI-Powered Movie Search App](https://github.com/preternatural-explore/AIMovieSearch)
 3. [VoicePilot: An AI-Powered Voice Recorder](https://github.com/preternatural-explore/VoicePilot)
+4. [PoemWriter: Personalized Poetry, Anytime, Any Topic](https://github.com/preternatural-explore/PoemWriter)
 
 ## [MLX Swift Chat: Run LLM models locally with MLX!](https://github.com/preternatural-explore/mlx-swift-chat)
 This project is a fully native SwiftUI app that allows you to run local LLMs (e.g. Llama, Mistral) on Apple silicon in real-time using MLX.
@@ -25,5 +26,9 @@ VoicePilot demonstrates how to enhance the recording experience by not only capt
 
 
 <img width="1280" alt="voicemoc" src="https://github.com/preternatural-explore/.github/assets/1157147/bfc1aa14-bc55-40ae-b148-c9fdee10d7f7">
+
+## [PoemWriter: Personalized Poetry, Anytime, Any Topic](https://github.com/preternatural-explore/PoemWriter)
+PoemWriter is a simple demonstration of the LLM completions API. The user enters a poem topic and the LLM generates a full poem about the topic. Here is a poem generated for WWDC!
+<img width="688" alt="poemwriterscreenshot" src="https://github.com/preternatural-explore/.github/assets/1157147/2306adf3-39a4-4100-aede-25d82e6a0853">
 
 
