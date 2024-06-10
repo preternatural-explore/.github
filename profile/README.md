@@ -4,10 +4,10 @@ Welcome to @PreternaturalAI's collection of real-world examples of what you can 
 
 # Table of Contents
 
-1. [MLX Swift Chat: Run LLM models locally with MLX!](https://github.com/preternatural-explore/mlx-swift-chat)
-2. [Movie Search: Semantic search for movies using text-embeddings.](https://github.com/preternatural-explore/movie-search)
-3. [Voice Recorder: Transcribe your voice recordings with Whisper.](https://github.com/preternatural-explore/voice-recorder)
-4. [Poem Generator: Personalized poetry, anytime, any topic!](https://github.com/preternatural-explore/poem-generator)
+1. [MLX Swift Chat: Run LLM models locally with MLX!](#mlx-swift-chat-run-llm-models-locally-with-mlx)
+2. [Movie Search: Semantic search for movies using text-embeddings.](#aimoviesearch-ai-powered-movie-search-app)
+3. [Voice Recorder: Transcribe your voice recordings with Whisper.](#voicepilot-an-ai-powered-voice-recorder)
+4. [Poem Generator: Personalized poetry, anytime, any topic!](#poemwriter-personalized-poetry-anytime-any-topic)
 
 ## [MLX Swift Chat: Run LLM models locally with MLX!](https://github.com/preternatural-explore/mlx-swift-chat)
 This project is a fully native SwiftUI app that allows you to run local LLMs (e.g. Llama, Mistral) on Apple silicon in real-time using MLX.
