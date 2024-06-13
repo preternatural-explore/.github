@@ -34,4 +34,6 @@ PoemWriter is a simple demonstration of the LLM completions API. The user enters
 
 ## [NarratorBot: Transform Image to Audio](https://github.com/preternatural-explore/NarratorBot)
 A bot that narrates what it sees in front of it, in the style of a BBC nature documentary with the voice of Sir David Attenborough. Uses GPT-4o for image understanding and ElevenLabs for Audio Generation.
-https://github.com/PreternaturalAI/NarratorBot/assets/5306992/29be0f4d-1673-4e74-af31-66f21b046008
+<video width="320" height="240" controls>
+  <source src="https://github.com/PreternaturalAI/NarratorBot/assets/5306992/29be0f4d-1673-4e74-af31-66f21b046008" type="video/mp4">
+</video>
