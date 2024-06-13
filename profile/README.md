@@ -8,7 +8,7 @@ Welcome to @PreternaturalAI's collection of real-world examples of what you can 
 2. [Movie Search: Semantic search for movies using text-embeddings.](#movie-search-semantic-search-for-movies-using-text-embeddings)
 3. [Voice Recorder: Transcribe your voice recordings with Whisper.](#voice-recorder-transcribe-your-voice-recordings-with-whisper)
 4. [Poem Generator: Personalized poetry, anytime, any topic!](#poem-generator-personalized-poetry-anytime-any-topic)
-5. [NarratorBot: Transform Image into Audio](#narratorbot-transform-image-into-audio)
+5. [Narrator Bot: Transform Image into Audio](#narrator-bot-transform-image-into-audio)
 
 ## [MLX Swift Chat: Run LLM models locally with MLX!](https://github.com/preternatural-explore/mlx-swift-chat)
 This project is a fully native SwiftUI app that allows you to run local LLMs (e.g. Llama, Mistral) on Apple silicon in real-time using MLX.
@@ -32,7 +32,7 @@ VoicePilot demonstrates how to enhance the recording experience by not only capt
 PoemWriter is a simple demonstration of the LLM completions API. The user enters a poem topic and the LLM generates a full poem about the topic. Here is a poem generated for WWDC!
 <img width="688" alt="poemwriterscreenshot" src="https://github.com/preternatural-explore/.github/assets/1157147/2306adf3-39a4-4100-aede-25d82e6a0853">
 
-## [NarratorBot: Transform Image into Audio](https://github.com/preternatural-explore/NarratorBot)
+## [Narrator Bot: Transform Image into Audio]([https://github.com/preternatural-explore/NarratorBot](https://github.com/preternatural-explore/narrator-bot))
 A bot that narrates what it sees in front of it, in the style of a BBC nature documentary with the voice of Sir David Attenborough. Uses GPT-4o for image understanding and ElevenLabs for Audio Generation.
 
 https://github.com/preternatural-explore/NarratorBot/blob/main/286146979-29be0f4d-1673-4e74-af31-66f21b046008.mp4
