@@ -32,7 +32,7 @@ VoicePilot demonstrates how to enhance the recording experience by not only capt
 PoemWriter is a simple demonstration of the LLM completions API. The user enters a poem topic and the LLM generates a full poem about the topic. Here is a poem generated for WWDC!
 <img width="688" alt="poemwriterscreenshot" src="https://github.com/preternatural-explore/.github/assets/1157147/2306adf3-39a4-4100-aede-25d82e6a0853">
 
-## [Narrator Bot: Transform Image into Audio]([https://github.com/preternatural-explore/NarratorBot](https://github.com/preternatural-explore/narrator-bot))
+## [Narrator Bot: Transform Image into Audio]([https://github.com/preternatural-explore/NarratorBot](https://github.com/preternatural-explore/narrator-bot)
 A bot that narrates what it sees in front of it, in the style of a BBC nature documentary with the voice of Sir David Attenborough. Uses GPT-4o for image understanding and ElevenLabs for Audio Generation.
 
 https://github.com/preternatural-explore/NarratorBot/blob/main/286146979-29be0f4d-1673-4e74-af31-66f21b046008.mp4
