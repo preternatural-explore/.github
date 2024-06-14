@@ -10,6 +10,7 @@ Welcome to @PreternaturalAI's collection of real-world examples of what you can 
 4. [Poem Generator: Personalized poetry, anytime, any topic!](#poem-generator-personalized-poetry-anytime-any-topic)
 5. [NarratorBot: Transform Image into Audio](#narratorbot-transform-image-into-audio)
 6. [HealthApp: Nutritional Insight from Food Photos](#healthapp-nutritional-insight-from-food-photos)
+7. [PhotoTranslator: Generate Creative Sentences in a Foreign Language from a Photo](#phototranslator-generate-creative-sentences-in-a-foreign-language-from-a-photo)
 
 ## [MLX Swift Chat: Run LLM models locally with MLX!](https://github.com/preternatural-explore/mlx-swift-chat)
 This project is a fully native SwiftUI app that allows you to run local LLMs (e.g. Llama, Mistral) on Apple silicon in real-time using MLX.
@@ -42,3 +43,8 @@ https://github.com/preternatural-explore/NarratorBot/blob/main/286146979-29be0f4
 A simple app to upload an image to OpenAI Vision for analysis. If the item is food we will gather the pros, cons, type & overall summary about the food.
 
 https://github.com/preternatural-explore/health-app/blob/main/313036265-c294c3e1-ec6b-4118-9ac1-cdedeaef074b.mov
+
+## [PhotoTranslator: Generate Creative Sentences in a Foreign Language from a Photo](https://github.com/preternatural-explore/photo-translator)
+The PhotoTranslator app leverages OpenAI's Vision API to bring translations into the user's surroundings seamlessly. Users can simply take a photo, and the app, using an on-device YOLO model, identifies objects within the image. Then, creative sentences in the target language are generated about the picture in general and each object specifically along with the foreign language audio using ElevenLabs API, making learning a new language an engaging and immersive experience.<br/>
+<img width="413" alt="phototranslationdescription" src="https://github.com/preternatural-explore/.github/assets/1157147/5204b5ab-fe06-4241-b55f-d07cb0e2daf7">
+<img width="413" alt="exportA25BFD02-B306-4936-87A7-FB421D9F21F1" src="https://github.com/preternatural-explore/.github/assets/1157147/4bbfaeb7-385f-46ee-9039-58685ad68873">
