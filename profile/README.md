@@ -11,6 +11,7 @@ Welcome to @PreternaturalAI's collection of real-world examples of what you can 
 5. [NarratorBot: Transform Image into Audio](#narratorbot-transform-image-into-audio)
 6. [HealthApp: Nutritional Insight from Food Photos](#healthapp-nutritional-insight-from-food-photos)
 7. [PhotoTranslator: Generate Creative Sentences in a Foreign Language from a Photo](#phototranslator-generate-creative-sentences-in-a-foreign-language-from-a-photo)
+8. [Swift Code Generator: Generate Sample Code on Demand](#swift-code-generator-generate-sample-code-on-demand)
 
 ## [MLX Swift Chat: Run LLM models locally with MLX!](https://github.com/preternatural-explore/mlx-swift-chat)
 This project is a fully native SwiftUI app that allows you to run local LLMs (e.g. Llama, Mistral) on Apple silicon in real-time using MLX.
@@ -48,3 +49,9 @@ https://github.com/preternatural-explore/health-app/blob/main/313036265-c294c3e1
 The PhotoTranslator app leverages OpenAI's Vision API to bring translations into the user's surroundings seamlessly. Users can simply take a photo, and the app, using an on-device YOLO model, identifies objects within the image. Then, creative sentences in the target language are generated about the picture in general and each object specifically along with the foreign language audio using ElevenLabs API, making learning a new language an engaging and immersive experience.<br/>
 <img width="413" alt="phototranslationdescription" src="https://github.com/preternatural-explore/.github/assets/1157147/5204b5ab-fe06-4241-b55f-d07cb0e2daf7">
 <img width="413" alt="exportA25BFD02-B306-4936-87A7-FB421D9F21F1" src="https://github.com/preternatural-explore/.github/assets/1157147/4bbfaeb7-385f-46ee-9039-58685ad68873">
+
+## [Swift Code Generator: Generate Sample Code on Demand](https://github.com/preternatural-explore/swift-code-generator)
+The Swift Code Generator is a demo app that allows users to input natural language descriptions of desired Swift functionality and receive corresponding Swift code snippets. The app demonstrates the use of a clever prompting technique: leveraging the Claude 3.5 Sonnet model, it initiates the assistant's response with a code block marker and employs a stop sequence to ensure only the relevant code is returned. This method effectively filters out explanatory text, focusing solely on the generated Swift code - a technique which can be further applied to other use-cases.
+
+<img width="426" alt="smartcode" src="https://github.com/user-attachments/assets/26854973-6727-4bb2-a7f4-39b5262d88e5">
+
