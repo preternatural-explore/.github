@@ -4,14 +4,14 @@ Welcome to @PreternaturalAI's collection of real-world examples of what you can 
 
 # Table of Contents
 
-1. [MLX Swift Chat: Run LLM models locally with MLX!](#mlx-swift-chat-run-llm-models-locally-with-mlx)
-2. [Movie Search: Semantic search for movies using text-embeddings.](#movie-search-semantic-search-for-movies-using-text-embeddings)
-3. [Voice Recorder: Transcribe your voice recordings with Whisper.](#voice-recorder-transcribe-your-voice-recordings-with-whisper)
-4. [Poem Generator: Personalized poetry, anytime, any topic!](#poem-generator-personalized-poetry-anytime-any-topic)
-5. [NarratorBot: Transform Image into Audio](#narratorbot-transform-image-into-audio)
-6. [HealthApp: Nutritional Insight from Food Photos](#healthapp-nutritional-insight-from-food-photos)
-7. [PhotoTranslator: Generate Creative Sentences in a Foreign Language from a Photo](#phototranslator-generate-creative-sentences-in-a-foreign-language-from-a-photo)
-8. [Swift Code Generator: Generate Sample Code on Demand](#swift-code-generator-generate-sample-code-on-demand)
+- [MLX Swift Chat: Run LLM models locally with MLX!](#mlx-swift-chat-run-llm-models-locally-with-mlx)
+- [Movie Search: Semantic search for movies using text-embeddings.](#movie-search-semantic-search-for-movies-using-text-embeddings)
+- [Voice Recorder: Transcribe your voice recordings with Whisper.](#voice-recorder-transcribe-your-voice-recordings-with-whisper)
+- [Poem Generator: Personalized poetry, anytime, any topic!](#poem-generator-personalized-poetry-anytime-any-topic)
+- [NarratorBot: Transform Image into Audio](#narratorbot-transform-image-into-audio)
+- [HealthApp: Nutritional Insight from Food Photos](#healthapp-nutritional-insight-from-food-photos)
+- [PhotoTranslator: Generate Creative Sentences in a Foreign Language from a Photo](#phototranslator-generate-creative-sentences-in-a-foreign-language-from-a-photo)
+- [Swift Code Generator: Generate Sample Code on Demand](#swift-code-generator-generate-sample-code-on-demand)
 
 ## [MLX Swift Chat: Run LLM models locally with MLX!](https://github.com/preternatural-explore/mlx-swift-chat)
 This project is a fully native SwiftUI app that allows you to run local LLMs (e.g. Llama, Mistral) on Apple silicon in real-time using MLX.
