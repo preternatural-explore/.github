@@ -2,7 +2,7 @@
 
 Welcome to @PreternaturalAI's collection of real-world examples of what you can build with our frameworks.
 
-# Table of Contents
+# Templates
 
 - [MLX Swift Chat: Run LLM models locally with MLX!](#mlx-swift-chat-run-llm-models-locally-with-mlx)
 - [Movie Search: Semantic search for movies using text-embeddings.](#movie-search-semantic-search-for-movies-using-text-embeddings)
